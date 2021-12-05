@@ -50,3 +50,7 @@ BERT模型解读PPT：BERT模型从零解读的PPT：链接: https://pan.baidu.c
 
 链接: https://pan.baidu.com/s/1DJPNcmOW-qtAbnXJS6_kUQ 提取码: ry8j
 
+#### 6. BERT-文本分类源码解读
+
+https://github.com/DA-southampton/Read_Bert_Code
+
